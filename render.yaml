@@ -13,7 +13,7 @@ services:
       - key: WEBHOOK_URL
         value: https://n8n-o15o.onrender.com/
       - key: N8N_ENCRYPTION_KEY
-        value: l1gqYDW4NGT3O8pA6T6+tiQm5FERbdsJEsaUp4lP2Yk=
+        value: jiwp3WPuyL9NRLOjKUWdiHnuJDmMbn7+fZ1pitBhux8=
       - key: GENERIC_TIMEZONE
         value: Asia/Taipei
     disk:
